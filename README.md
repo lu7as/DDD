@@ -1,5 +1,5 @@
 
-# Direct Direct Downloader(DDD v1.5)
+# Direct Drive Downloader(DDD v1.5)
 One Click Direct Download From Google Drive
 
 ## Requirement
