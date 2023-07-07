@@ -29,7 +29,8 @@ U| |_| |\ U| |_| |\ U| |_| |\
 
 ================================================================
 Direct Drive Downloader(DDD) v1.5
-Visit : www.mrkonaymyoaungict.site // Create by Ko Nay Myo Aung
+Visit : www.mrkonaymyoaungict.site 
+//Create by Ko Nay Myo Aung
 """
 
 print("\033[1;36;40m" ,art)
